@@ -2,7 +2,7 @@
   "engines": {
     "node": "6.11.1"
   },
-  "name": "diverse-memory-game",
+  "name": "dape-memory-game",
   "version": "0.0.2",
   "description": "Redux implementation of Memory Game",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/khaldieko/tastybonesmemorygame.git"
   },
-  "author": "khal dieko",
+  "author": "tide",
   "homepage": "https://khaldieko.github.io/tasty-bones-game",
   "license": "MIT",
   "dependencies": {
